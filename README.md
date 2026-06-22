@@ -30,6 +30,17 @@ The entire visual production pipeline was created from scratch.
 
 [Watch the Final Animation](https://drive.google.com/file/d/12WmSOGbfE_FimvY68BQhU96fBs07M6Lp/view?usp=sharing)
 
+## Artwork Showcase
+
+<p align="center">
+  <img src="Arkaplan.png.png" width="60%">
+</p>
+
+<p align="center">
+  <img src="Girl.png.png" width="25%">
+  <img src="Kedi.png.png" width="25%">
+</p>
+
 ## Environment Design
 
 <img src="Krita-Environment.png.png" width="900">
@@ -39,16 +50,6 @@ The entire visual production pipeline was created from scratch.
 <img src="Krita-Character-Girl.png.png" width="350">
 
 <img src="Krita-Character-Cat.png.png" width="350">
-
-## Character Creation Process
-
-<img src="Girl.png" width="900">
-
-<img src="Cat.png" width="900">
-
-## Environment Creation Process
-
-<img src="Background-Process.png" width="900">
 
 ## Animation Production Process
 
