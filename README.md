@@ -32,13 +32,13 @@ The entire visual production pipeline was created from scratch.
 
 ## Environment Design
 
-<img src="Krita-Environment.png" width="900">
+<img src="Krita-Environment.png.png" width="900">
 
 ## Character Design
 
-<img src="Krita-Character-Girl.png" width="350">
+<img src="Krita-Character-Girl.png.png" width="350">
 
-<img src="Krita-Character-Cat.png" width="350">
+<img src="Krita-Character-Cat.png.png" width="350">
 
 ## Animation Production Process
 
