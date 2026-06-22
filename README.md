@@ -56,15 +56,13 @@ These scenes showcase camera movement, lighting setup, visual effects, snowfall 
 
 ## Skills Demonstrated
 
-- 2D Illustration
+- Digital Illustration
 - Character Design
-- Environment Art
-- Animation Workflow
+- Environment Design
+- 2D Animation
+- Camera Animation
+- Scene Composition
+- Visual Storytelling
 - Adobe After Effects
 - Adobe Premiere Pro
 - Krita
-- Visual Storytelling
-- Scene Composition
-- Camera Animation
-- Layer-Based Animation
-- Digital Art Production
