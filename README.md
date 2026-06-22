@@ -10,10 +10,6 @@ This project includes original character illustrations, environment artwork, ani
 - Adobe After Effects
 - Adobe Premiere Pro
 
-## Project Overview
-
-The entire visual production pipeline was created from scratch.
-
 ### Responsibilities
 
 - Character Design
@@ -61,16 +57,3 @@ This stage demonstrates the organization of animation layers, character preparat
 <img src="AfterEffects-Scene2.png.png" width="900">
 
 These scenes showcase camera movement, lighting setup, visual effects, snowfall effects, and scene composition created in Adobe After Effects.
-
-## Skills Demonstrated
-
-- Digital Illustration
-- Character Design
-- Environment Design
-- 2D Animation
-- Camera Animation
-- Scene Composition
-- Visual Storytelling
-- Adobe After Effects
-- Adobe Premiere Pro
-- Krita
