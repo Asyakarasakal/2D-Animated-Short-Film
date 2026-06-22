@@ -28,7 +28,7 @@ The entire visual production pipeline was created from scratch.
 
 ## Final Video
 
-*Video link will be added here.*
+[Watch the Final Animation](https://drive.google.com/file/d/12WmSOGbfE_FimvY68BQhU96fBs07M6Lp/view?usp=sharing)
 
 ## Environment Design
 
