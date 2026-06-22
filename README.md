@@ -48,9 +48,9 @@ This stage demonstrates the organization of animation layers, character preparat
 
 ## Scene Composition & Camera Animation
 
-<img src="AfterEffects-Scene1.png" width="900">
+<img src="AfterEffects-Scene1.png.png" width="900">
 
-<img src="AfterEffects-Scene2.png" width="900">
+<img src="AfterEffects-Scene2.png.png" width="900">
 
 These scenes showcase camera movement, lighting setup, visual effects, snowfall effects, and scene composition created in Adobe After Effects.
 
