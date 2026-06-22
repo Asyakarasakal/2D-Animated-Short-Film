@@ -34,17 +34,19 @@ This project includes original character illustrations, environment artwork, ani
   <img src="Kedi.png" width="20%">
 </p>
 
-## Environment Design
+## Production Process
+
+### Environment Artwork
 
 <img src="Krita-Environment.png.png" width="450">
 
-## Character Design
+### Character Artwork
 
-<img src="Krita-Character-Girl.png.png" width="350">
+<img src="Krita-Character-Girl.png.png" width="300">
 
-<img src="Krita-Character-Cat.png.png" width="350">
+<img src="Krita-Character-Cat.png.png" width="300">
 
-## Animation Production Process
+### Animation Workflow
 
 <img src="Animation Production Process.png" width="900">
 
