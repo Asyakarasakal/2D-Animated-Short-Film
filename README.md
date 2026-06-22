@@ -33,12 +33,9 @@ The entire visual production pipeline was created from scratch.
 ## Original Artwork
 
 <p align="center">
-  <img src="Arkaplan.png" width="80%">
-</p>
-
-<p align="center">
-  <img src="Girl.png" width="30%">
-  <img src="Kedi.png" width="30%">
+  <img src="Arkaplan.png" width="45%">
+  <img src="Girl.png" width="20%">
+  <img src="Kedi.png" width="20%">
 </p>
 
 ## Environment Design
