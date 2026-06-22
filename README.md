@@ -40,7 +40,7 @@ The entire visual production pipeline was created from scratch.
 
 ## Environment Design
 
-<img src="Krita-Environment.png.png" width="900">
+<img src="Krita-Environment.png.png" width="450">
 
 ## Character Design
 
