@@ -30,15 +30,15 @@ The entire visual production pipeline was created from scratch.
 
 [Watch the Final Animation](https://drive.google.com/file/d/12WmSOGbfE_FimvY68BQhU96fBs07M6Lp/view?usp=sharing)
 
-## Artwork Showcase
+## Original Artwork
 
 <p align="center">
-  <img src="Arkaplan.png.png" width="60%">
+  <img src="Arkaplan.png" width="80%">
 </p>
 
 <p align="center">
-  <img src="Girl.png.png" width="25%">
-  <img src="Kedi.png.png" width="25%">
+  <img src="Girl.png" width="30%">
+  <img src="Kedi.png" width="30%">
 </p>
 
 ## Environment Design
