@@ -40,6 +40,16 @@ The entire visual production pipeline was created from scratch.
 
 <img src="Krita-Character-Cat.png.png" width="350">
 
+## Character Creation Process
+
+<img src="Girl.png" width="900">
+
+<img src="Cat.png" width="900">
+
+## Environment Creation Process
+
+<img src="Background-Process.png" width="900">
+
 ## Animation Production Process
 
 <img src="Animation Production Process.png" width="900">
